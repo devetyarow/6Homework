@@ -1,0 +1,15 @@
+D:\C_sharp\Homework6\task45\bin\Debug\net7.0\task45.exe
+D:\C_sharp\Homework6\task45\bin\Debug\net7.0\task45.deps.json
+D:\C_sharp\Homework6\task45\bin\Debug\net7.0\task45.runtimeconfig.json
+D:\C_sharp\Homework6\task45\bin\Debug\net7.0\task45.dll
+D:\C_sharp\Homework6\task45\bin\Debug\net7.0\task45.pdb
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.csproj.AssemblyReference.cache
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.AssemblyInfoInputs.cache
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.AssemblyInfo.cs
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.csproj.CoreCompileInputs.cache
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.dll
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\refint\task45.dll
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.pdb
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\task45.genruntimeconfig.cache
+D:\C_sharp\Homework6\task45\obj\Debug\net7.0\ref\task45.dll

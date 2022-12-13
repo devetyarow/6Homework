@@ -1,0 +1,15 @@
+D:\C_sharp\Homework6\task43\bin\Debug\net7.0\task43.exe
+D:\C_sharp\Homework6\task43\bin\Debug\net7.0\task43.deps.json
+D:\C_sharp\Homework6\task43\bin\Debug\net7.0\task43.runtimeconfig.json
+D:\C_sharp\Homework6\task43\bin\Debug\net7.0\task43.dll
+D:\C_sharp\Homework6\task43\bin\Debug\net7.0\task43.pdb
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.csproj.AssemblyReference.cache
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.AssemblyInfoInputs.cache
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.AssemblyInfo.cs
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.csproj.CoreCompileInputs.cache
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.dll
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\refint\task43.dll
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.pdb
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\task43.genruntimeconfig.cache
+D:\C_sharp\Homework6\task43\obj\Debug\net7.0\ref\task43.dll
